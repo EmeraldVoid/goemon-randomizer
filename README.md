@@ -6,8 +6,9 @@
 This repository contains the seeds I have generated and attempted to run. *Mystical Ninja Starring Goemon* is one of my favorite N64 games, and this challenge has been a fun way to rediscover its world in new and unexpected ways.  
 
 ## Contents  
-- Generated seeds and run attempts  
-- Notes and strategies for different seeds  
-- Personal experiences and highlights from my runs  
+- [![Generated Seeds](https://img.shields.io/badge/Generated_Seeds-074166?logo=microstrategy&logoColor=ffffff)](https://) 
+- [![Notes & Strategies](https://img.shields.io/badge/Notes_%26_Strategies-074166?logo=googledocs&logoColor=ffffff)](https://) 
+- [![Random Things](https://img.shields.io/badge/Random_Things-074166?logo=kueski&logoColor=ffffff)](https://)
+
 
 If you're a fan of *Mystical Ninja Starring Goemon* and enjoy randomizers, this is a great way to bring a new twist to the game!
