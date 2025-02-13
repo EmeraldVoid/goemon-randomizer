@@ -7,8 +7,8 @@ This repository contains the seeds I have generated and attempted to run. *Mysti
 
 ## Contents  
 - [![Generated Seeds](https://img.shields.io/badge/Generated_Seeds-074166?logo=microstrategy&logoColor=ffffff)](https://) 
-- [![Notes & Strategies](https://img.shields.io/badge/Notes_%26_Strategies-074166?logo=googledocs&logoColor=ffffff)](https://) 
-- [![Random Things](https://img.shields.io/badge/Random_Things-074166?logo=kueski&logoColor=ffffff)](https://)
+- [![Notes & Strategies](https://img.shields.io/badge/Notes_%26_Strategies-07660e?logo=googledocs&logoColor=ffffff)](https://) 
+- [![Random Things](https://img.shields.io/badge/Random_Things-536607?logo=kueski&logoColor=ffffff)](https://)
 
 
 If you're a fan of *Mystical Ninja Starring Goemon* and enjoy randomizers, this is a great way to bring a new twist to the game!
