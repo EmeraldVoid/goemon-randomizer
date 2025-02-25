@@ -1,6 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/TYAbZR6.png"></p>
 
-[![Latest Release](https://img.shields.io/github/v/release/EmeraldVoid/goemon-randomizer?include_prereleases&sort=semver)](https://github.com/EmeraldVoid/goemon-randomizer/releases/latest)
 
 
 
@@ -17,7 +16,8 @@ If you're experiencing issues with the randomizer (errors, glitches, crashes, et
 
 # Repo Contents: 
 
-[![Generated Seeds](https://img.shields.io/badge/Generated_Seeds-6E9F18?logo=vitest&logoColor=000000)](https://github.com/EmeraldVoid/goemon-randomizer/releases) [![Download Randomizer](https://img.shields.io/badge/Download_Randomizer-6E9F18?logo=github&logoColor=000000)](https://github.com/abyssonym/mn64rando)
+[![Latest Release](https://img.shields.io/github/v/release/EmeraldVoid/goemon-randomizer?include_prereleases&sort=semver)](https://github.com/EmeraldVoid/goemon-randomizer/releases/latest)
+ [![Generated Seeds](https://img.shields.io/badge/Generated_Seeds-6E9F18?logo=vitest&logoColor=000000)](https://github.com/EmeraldVoid/goemon-randomizer/releases) [![Download Randomizer](https://img.shields.io/badge/Download_Randomizer-6E9F18?logo=github&logoColor=000000)](https://github.com/abyssonym/mn64rando)
 
 
 This repo tracks the seeds I've generated and tested. Each seed is labeled as **Working**, **Broken**, or **Unknown**, but statuses may change over time as more testing is done. Check the latest releases for updates.  
