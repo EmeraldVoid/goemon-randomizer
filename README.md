@@ -1,5 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/TYAbZR6.png"></p>
 
+[![Latest Release](https://img.shields.io/github/v/release/EmeraldVoid/goemon-randomizer?include_prereleases&sort=semver)](https://github.com/EmeraldVoid/goemon-randomizer/releases/latest)
+
+
 
 [Ancient Cave Starring Goemon: Randomizer](https://github.com/abyssonym/mn64rando/releases/latest/) is a randomizer for *Mystical Ninja Starring Goemon* on the Nintendo 64, created by [abyssonym](https://github.com/abyssonym/). This tool allows you to shuffle door connections, change the starting characters from Goemon/Ebisumaru to Sasuke/Yae, and even start with different items, creating a fresh and unpredictable experience.  
 
