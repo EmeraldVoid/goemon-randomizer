@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banner Template Website</title>
+    <link rel="stylesheet" href="styles.css">
+     <link rel="icon" type="image/x-icon" href="goemon.ico">
+</head>
+<body>
+    <header class="header-container">
+        <nav class="nav-container">
+            <a href="index.html" class="nav-button">Home</a>
+            <a href="about.html" class="nav-button">About</a>
+            <a href="hardcore-mode.html" class="nav-button">Hardcore Randomizer</a>
+            <a href="guide.html" class="nav-button">Install Guide</a>
+            <a href="https://github.com/EmeraldVoid/goemon-randomizer/releases" class="nav-button">Seeds</a>
+            <a href="https://www.twitch.tv/Emerald_Void" class="nav-button">Twitch</a>
+        </nav>
+        <img src="https://i.imgur.com/Y5fru7P.png" alt="Header Image" class="header-image">
+    </header>
+
+   <p style="text-align:center;"><img src="https://i.imgur.com/sylzjp8.png" alt="Goemon Hardcore Randomizer Logo"></p>
+
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Untested_Seed-565656?logo=awesomelists&logoColor=ffffff" alt="Unknown">
+  </a>
+</p>
+
+<p><strong>Goemon Hardcore Randomizer</strong> is a collection of randomly generated seeds that activate <strong>Hard Mode</strong>, significantly increasing the difficulty of the game.</p>
+
+<h2>Editions</h2>
+<ul>
+  <li><strong>Goemon Edition</strong> – Start with <strong>Goemon</strong> and <strong>Ebisumaru</strong> as your default characters.</li>
+  <li><strong>Sasuke Edition</strong> – Start with <strong>Sasuke</strong> and <strong>Yae</strong> instead.</li>
+</ul>
+<p>The core rules of the challenge remain the same across both editions. The main difference is which characters you begin the game with, affecting early-game strategies and routing.</p>
+
+<h2>What is Goemon Hardcore Randomizer?</h2>
+<p>
+  Goemon Hardcore Randomizer is a challenge created by <strong>Emerald_Void</strong>, built using the <a href="https://github.com/abyssonym/mn64rando">Ancient Cave Starring Goemon Randomizer</a>. Inspired by classic challenge modes such as Kaizo, Nuzlockes, and Iron Mario, this randomizer pushes players to their limits.
+</p>
+<p>
+  Hardcore Randomizer introduces the following challenge:
+</p>
+<blockquote>
+  "Quadruples the damage taken from all sources. As a result, most enemies will deal a full 2 hearts of damage, meaning you can only survive 2 hits with the starting five hearts. This gives restaurants, shops, and cat dolls more importance throughout the game. Note that helmets and armor will still negate the full damage of a hit, making them much more valuable. A side effect of this option is that any damage taken during the Sweets Minigame is a one-hit kill."
+</blockquote>
+
+<h2>What is the objective of the game?</h2>
+<p>Obtain the four Miracle Items, then use the Pemo Pemo Statue at Ugo Stone Circle to travel to space and defeat the final boss.</p>
+
+<h2>Getting Started</h2>
+<p>Check the <a href="https://github.com/EmeraldVoid/Goemon-Hardcore-Randomizer/releases">latest releases</a> to get the most up-to-date version of this challenge.</p>
+
+<h2>Rules & Settings</h2>
+<h3>Mandatory Rules</h3>
+<ul>
+  <li><code>hard_mode: True</code> – This is the core setting and must remain enabled.</li>
+  <li><code>avoid_softlocks: True</code> – Prevents softlocks.</li>
+  <li><code>enable_debug: True</code></li>
+  <li><code>fix_bad_maps: True</code></li>
+  <li><code>randomize_enemies: True</code> – Randomizes enemies in areas, giving the game a fresh feel.</li>
+</ul>
+
+<h3>Optional Rules</h3>
+<ul>
+  <li><code>auto_mash: True</code> – Speeds up long cutscenes.</li>
+  <li><code>start_flute: True</code> – Start with Yae and Yae’s flute.</li>
+  <li><code>flute_anywhere: True</code> – Allows the flute to be used in any room.</li>
+  <li><strong>No Fortune Dolls</strong> – You cannot collect any fortune dolls during your run.</li>
+  <li><code>sasuke_mode: True</code> – Enabled by default in the <strong>Sasuke Edition</strong>.</li>
+  <li><strong>Restart on Death</strong> – If you die, you must reset back to the beginning.</li>
+</ul>
+
+<h2>🔧 Installation & Usage</h2>
+<ol>
+  <li>Ensure you have a compatible ROM file.</li>
+  <li>Download either the <strong>Goemon Edition</strong> or <strong>Sasuke Edition</strong> <code>.yaml</code> file.</li>
+  <li>Move the file into the <strong>Goemon Randomizer folder</strong>.</li>
+  <li>Backup your existing <code>mn64_settings.yaml</code> file.</li>
+  <li>Rename the downloaded <code>.yaml</code> file to <code>mn64_settings.yaml</code>.</li>
+  <li>Run the <a href="https://github.com/abyssonym/mn64rando">Ancient Cave Starring Goemon Randomizer</a>.</li>
+  <li>Your <strong>randomized ROM</strong> is now ready to play!</li>
+</ol>
+
+<h2>⚠️ Notes</h2>
+<ul>
+  <li>Some generated seeds <strong>may not be completable</strong>.</li>
+  <li>If you get stuck, ensure <code>avoid_softlocks: True</code> is enabled.</li>
+  <li><code>sasuke_mode</code> is <strong>enabled by default in the Sasuke Edition</strong> but should be <strong>disabled in the Goemon Edition</strong>.</li>
+</ul>
+
+<h2>Good Luck!</h2>
+<p>Try out some of the <strong>Hardcore Seeds</strong> and test your skills. Be sure to check for updates and share your experiences!</p>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
